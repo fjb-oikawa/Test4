@@ -3,13 +3,10 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-<<<<<<< HEAD
 		System.out.println("身斗");
 		System.out.println("米青");
-=======
 		System.out.println("yr");
 		System.out.println("4649");
->>>>>>> 分岐
 	}
 
 }

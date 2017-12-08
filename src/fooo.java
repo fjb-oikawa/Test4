@@ -5,6 +5,7 @@ public class fooo {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("わーい!!");
 		System.out.println("にわにはにわにわとりがいる");
+		System.out.println("枝分かれ");
 	}
 	
 
